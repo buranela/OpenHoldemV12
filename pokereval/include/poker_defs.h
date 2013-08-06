@@ -26,7 +26,7 @@
 
 #if defined(_MSC_VER)
 #  define UINT64_TYPE unsigned __int64
-#  define inline __inline
+//#  define inline __inline
 #  define thread __declspec( thread )
 #else
 #  define thread 

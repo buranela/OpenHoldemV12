@@ -30,7 +30,7 @@
  * Lowball evaluator.  Assumes that n_cards >= 5
  */
 
-static inline uint32
+static __inline uint32
 _bottomNCards(uint32 cards, int howMany) {
   int i;
   uint32 retval, t;
@@ -46,7 +46,7 @@ _bottomNCards(uint32 cards, int howMany) {
 }
 
 
-static inline LowHandVal 
+static __inline LowHandVal 
 StdDeck_Lowball_EVAL(StdDeck_CardMask cards, int n_cards) {
   uint32 ranks, dups, trips, ss, sh, sd, sc, t, tt;
 

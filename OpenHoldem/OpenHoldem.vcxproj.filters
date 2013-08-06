@@ -1,0 +1,1268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files\winmgr">
+      <UniqueIdentifier>{521fd4da-4fa5-4847-bcf2-e2278b145e1b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\hscroll-list-box">
+      <UniqueIdentifier>{80fc2420-0c31-41eb-aef3-7bbbba83dcf7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\CTransform">
+      <UniqueIdentifier>{e45bb130-4a7b-4f65-924c-aad2faca1d04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\CTablemap">
+      <UniqueIdentifier>{511146ad-8d1a-4389-ac97-37b06bd32bd3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Validator-Rules">
+      <UniqueIdentifier>{d6d356ae-68ad-4fbf-91ad-d0982e3ec698}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Validator-Rules\Tools">
+      <UniqueIdentifier>{f523669f-adaf-4cab-87cf-7fc401c181aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GUI">
+      <UniqueIdentifier>{b8747046-75b4-431f-b286-9226310b7d09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GUI\prefs_dlg">
+      <UniqueIdentifier>{dddd2c75-3118-4a06-aa68-eda51c7844fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Synchronization">
+      <UniqueIdentifier>{76237214-d3d9-4893-a3dc-105e30d80455}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Symbols">
+      <UniqueIdentifier>{92394a78-bc8c-4581-8a27-34727904364d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Symbols\Symbol_Engines">
+      <UniqueIdentifier>{34f66c93-2e31-44eb-85b4-15ffb763117b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Usability">
+      <UniqueIdentifier>{eff3112e-a82b-4de9-beb4-5300684b592d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\AutoPlayer">
+      <UniqueIdentifier>{3ee0236b-c73d-4f4d-8925-154f98f58977}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\AutoConnector">
+      <UniqueIdentifier>{8c26f0d7-707a-4a95-a426-77ab5d67cfab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Programming the Bot">
+      <UniqueIdentifier>{dd8fd125-d16b-4066-a3f0-59891f64c137}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\PokerTracker">
+      <UniqueIdentifier>{40489b3d-3fda-47e3-8175-658039dae4f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\PrWin">
+      <UniqueIdentifier>{4cb30512-8378-4443-a8af-69678048df16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ReplayFrames">
+      <UniqueIdentifier>{187eb170-af9e-42d9-ba90-c7715c31f129}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Documents">
+      <UniqueIdentifier>{bc2d6556-e2c5-407b-a1e5-8f6999741aa8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Documents\Release Notes">
+      <UniqueIdentifier>{77541c37-3a15-4ce2-93e5-8ca52031b0bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Documents\Checklist for Releases">
+      <UniqueIdentifier>{f2bff464-651a-4832-9b04-1805a42e2a90}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files\winmgr">
+      <UniqueIdentifier>{c189dc45-b47e-4b8a-9f18-08e9b5225d02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\hscroll-list-box">
+      <UniqueIdentifier>{df31b89e-0cdb-498c-8f1c-f86ee16bb208}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\pokereval">
+      <UniqueIdentifier>{0d8bae1a-e01a-4a3c-93c8-51cb92d66976}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\postgres">
+      <UniqueIdentifier>{73f6fd9a-1550-4692-b421-3c67a8ff558f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\CTransform">
+      <UniqueIdentifier>{a468e024-effd-47de-ad92-c95ae7901f1c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\StructsDefines">
+      <UniqueIdentifier>{3b747d37-46bd-48ca-bc2f-9cfab9e54eb8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\CTablemap">
+      <UniqueIdentifier>{dfd78db4-f690-4eb6-8fef-2a59f29c9639}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Symbols">
+      <UniqueIdentifier>{d52004c5-8def-4bb8-906a-ce78d71e4762}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Symbols\Symbol_Engines">
+      <UniqueIdentifier>{d054d6e3-13d4-4b3c-aba0-a5b653d53813}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GUI">
+      <UniqueIdentifier>{ab04b697-0d17-448e-9a29-c59251f25c0f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GUI\prefs_dlg">
+      <UniqueIdentifier>{e8c66aeb-2fd5-4424-93f0-4461b2b59a64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Synchronization">
+      <UniqueIdentifier>{0009fee2-5533-41fc-9567-ee50a45c11ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Synchronization\CCritSec">
+      <UniqueIdentifier>{b95879c6-cbda-492d-872a-f8de138cda86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Programming the Bot">
+      <UniqueIdentifier>{b4a98629-8b52-4427-9b8c-daca11bbe296}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PokerTracker">
+      <UniqueIdentifier>{2c33e586-b6d6-4c6a-9c09-7382cb2414f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\AutoPlayer">
+      <UniqueIdentifier>{725e25ee-63f1-4d56-831c-d463bd2e2ccd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\AutoConnector">
+      <UniqueIdentifier>{04b5fc53-bd43-4229-be30-cef1d9959b4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Usability">
+      <UniqueIdentifier>{470c83c7-486d-4efb-8699-f748bb91c3e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PrWin">
+      <UniqueIdentifier>{0e16cd5d-a7a3-4cf4-866a-d68957dc0591}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ReplayFrames">
+      <UniqueIdentifier>{93b1fd30-f1f1-43c9-bb7a-04b6eff4e128}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CEvalInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CFilenames.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CFileSystemMonitor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CFlagsToolbar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CGrammar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CHandHistory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CHandresetDetector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CHeartbeatThread.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CLazyScraper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CLevDistance.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="COcclusionCheck.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="COpenHoldemHopperCommunication.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="COpenHoldemStatusbar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CPreferences.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="crc32hash.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CScraper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CScraperAccess.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CStringMatch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CTableLimits.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CValidator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MagicNumbers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MD5_Checksum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Median.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MyCToolBar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NumericalFunctions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OH_MessageBox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OpenHoldem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OpenHoldemDoc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ScraperOverride.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Singletons.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StringFunctions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SwagAdjustment.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\winmgr\SizerBar.cpp">
+      <Filter>Source Files\winmgr</Filter>
+    </ClCompile>
+    <ClCompile Include="..\winmgr\WinMgr.cpp">
+      <Filter>Source Files\winmgr</Filter>
+    </ClCompile>
+    <ClCompile Include="..\winmgr\WinRect.cpp">
+      <Filter>Source Files\winmgr</Filter>
+    </ClCompile>
+    <ClCompile Include="..\hscroll-list-box\HScrollListBox.cpp">
+      <Filter>Source Files\hscroll-list-box</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CTransform\pdiff\CompareArgs.cpp">
+      <Filter>Source Files\CTransform</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CTransform\CTransform.cpp">
+      <Filter>Source Files\CTransform</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CTransform\hash\lookup3.cpp">
+      <Filter>Source Files\CTransform</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CTransform\pdiff\LPyramid.cpp">
+      <Filter>Source Files\CTransform</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CTransform\pdiff\Metric.cpp">
+      <Filter>Source Files\CTransform</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CTransform\pdiff\RGBAImage.cpp">
+      <Filter>Source Files\CTransform</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CTablemap\CTablemap.cpp">
+      <Filter>Source Files\CTablemap</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CTablemap\CTablemapAccess.cpp">
+      <Filter>Source Files\CTablemap</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogFormulaScintilla.cpp">
+      <Filter>Source Files\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogHandList.cpp">
+      <Filter>Source Files\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogNew.cpp">
+      <Filter>Source Files\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogRename.cpp">
+      <Filter>Source Files\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogScraperOutput.cpp">
+      <Filter>Source Files\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="OpenHoldemView.cpp">
+      <Filter>Source Files\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="ScintillaWnd.cpp">
+      <Filter>Source Files\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="UPDialog.cpp">
+      <Filter>Source Files\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogSAPrefs10.cpp">
+      <Filter>Source Files\GUI\prefs_dlg</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogSAPrefs11.cpp">
+      <Filter>Source Files\GUI\prefs_dlg</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogSAPrefs12.cpp">
+      <Filter>Source Files\GUI\prefs_dlg</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogSAPrefs13.cpp">
+      <Filter>Source Files\GUI\prefs_dlg</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogSAPrefs14.cpp">
+      <Filter>Source Files\GUI\prefs_dlg</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogSAPrefs15.cpp">
+      <Filter>Source Files\GUI\prefs_dlg</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogSAPrefs16.cpp">
+      <Filter>Source Files\GUI\prefs_dlg</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogSAPrefs17.cpp">
+      <Filter>Source Files\GUI\prefs_dlg</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogSAPrefs18.cpp">
+      <Filter>Source Files\GUI\prefs_dlg</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogSAPrefs19.cpp">
+      <Filter>Source Files\GUI\prefs_dlg</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogSAPrefs2.cpp">
+      <Filter>Source Files\GUI\prefs_dlg</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogSAPrefs20.cpp">
+      <Filter>Source Files\GUI\prefs_dlg</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogSAPrefs21.cpp">
+      <Filter>Source Files\GUI\prefs_dlg</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogSAPrefs3.cpp">
+      <Filter>Source Files\GUI\prefs_dlg</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogSAPrefs4.cpp">
+      <Filter>Source Files\GUI\prefs_dlg</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogSAPrefs6.cpp">
+      <Filter>Source Files\GUI\prefs_dlg</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogSAPrefs7.cpp">
+      <Filter>Source Files\GUI\prefs_dlg</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogSAPrefs8.cpp">
+      <Filter>Source Files\GUI\prefs_dlg</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogSAPrefs9.cpp">
+      <Filter>Source Files\GUI\prefs_dlg</Filter>
+    </ClCompile>
+    <ClCompile Include="SAPrefsDialog.cpp">
+      <Filter>Source Files\GUI\prefs_dlg</Filter>
+    </ClCompile>
+    <ClCompile Include="SAPrefsStatic.cpp">
+      <Filter>Source Files\GUI\prefs_dlg</Filter>
+    </ClCompile>
+    <ClCompile Include="SAPrefsSubDlg.cpp">
+      <Filter>Source Files\GUI\prefs_dlg</Filter>
+    </ClCompile>
+    <ClCompile Include="CSessionCounter.cpp">
+      <Filter>Source Files\Synchronization</Filter>
+    </ClCompile>
+    <ClCompile Include="CSharedMem.cpp">
+      <Filter>Source Files\Synchronization</Filter>
+    </ClCompile>
+    <ClCompile Include="CBetroundCalculator.cpp">
+      <Filter>Source Files\Symbols</Filter>
+    </ClCompile>
+    <ClCompile Include="CEngineContainer.cpp">
+      <Filter>Source Files\Symbols</Filter>
+    </ClCompile>
+    <ClCompile Include="Chair$Symbols.cpp">
+      <Filter>Source Files\Symbols</Filter>
+    </ClCompile>
+    <ClCompile Include="CICMCalculator.cpp">
+      <Filter>Source Files\Symbols</Filter>
+    </ClCompile>
+    <ClCompile Include="CLogSymbols.cpp">
+      <Filter>Source Files\Symbols</Filter>
+    </ClCompile>
+    <ClCompile Include="CMemory.cpp">
+      <Filter>Source Files\Symbols</Filter>
+    </ClCompile>
+    <ClCompile Include="CPokerAction.cpp">
+      <Filter>Source Files\Symbols</Filter>
+    </ClCompile>
+    <ClCompile Include="CSymbols.cpp">
+      <Filter>Source Files\Symbols</Filter>
+    </ClCompile>
+    <ClCompile Include="CVersus.cpp">
+      <Filter>Source Files\Symbols</Filter>
+    </ClCompile>
+    <ClCompile Include="UnknownSymbols.cpp">
+      <Filter>Source Files\Symbols</Filter>
+    </ClCompile>
+    <ClCompile Include="CGameState.cpp">
+      <Filter>Source Files\Symbols\Symbol_Engines</Filter>
+    </ClCompile>
+    <ClCompile Include="CSymbolEngineActiveDealtPlaying.cpp">
+      <Filter>Source Files\Symbols\Symbol_Engines</Filter>
+    </ClCompile>
+    <ClCompile Include="CSymbolEngineAutoplayer.cpp">
+      <Filter>Source Files\Symbols\Symbol_Engines</Filter>
+    </ClCompile>
+    <ClCompile Include="CSymbolEngineBlinds.cpp">
+      <Filter>Source Files\Symbols\Symbol_Engines</Filter>
+    </ClCompile>
+    <ClCompile Include="CSymbolEngineCards.cpp">
+      <Filter>Source Files\Symbols\Symbol_Engines</Filter>
+    </ClCompile>
+    <ClCompile Include="CSymbolEngineChipAmounts.cpp">
+      <Filter>Source Files\Symbols\Symbol_Engines</Filter>
+    </ClCompile>
+    <ClCompile Include="CSymbolengineDealerchair.cpp">
+      <Filter>Source Files\Symbols\Symbol_Engines</Filter>
+    </ClCompile>
+    <ClCompile Include="CSymbolEngineHandrank.cpp">
+      <Filter>Source Files\Symbols\Symbol_Engines</Filter>
+    </ClCompile>
+    <ClCompile Include="CSymbolEngineHistory.cpp">
+      <Filter>Source Files\Symbols\Symbol_Engines</Filter>
+    </ClCompile>
+    <ClCompile Include="CSymbolEngineIniFunctions.cpp">
+      <Filter>Source Files\Symbols\Symbol_Engines</Filter>
+    </ClCompile>
+    <ClCompile Include="CSymbolEngineIsOmaha.cpp">
+      <Filter>Source Files\Symbols\Symbol_Engines</Filter>
+    </ClCompile>
+    <ClCompile Include="CSymbolEngineIsTournament.cpp">
+      <Filter>Source Files\Symbols\Symbol_Engines</Filter>
+    </ClCompile>
+    <ClCompile Include="CSymbolEngineLists.cpp">
+      <Filter>Source Files\Symbols\Symbol_Engines</Filter>
+    </ClCompile>
+    <ClCompile Include="CSymbolEnginePokerTracker.cpp">
+      <Filter>Source Files\Symbols\Symbol_Engines</Filter>
+    </ClCompile>
+    <ClCompile Include="CSymbolEnginePokerval.cpp">
+      <Filter>Source Files\Symbols\Symbol_Engines</Filter>
+    </ClCompile>
+    <ClCompile Include="CSymbolEnginePositions.cpp">
+      <Filter>Source Files\Symbols\Symbol_Engines</Filter>
+    </ClCompile>
+    <ClCompile Include="CSymbolEnginePrwin.cpp">
+      <Filter>Source Files\Symbols\Symbol_Engines</Filter>
+    </ClCompile>
+    <ClCompile Include="CSymbolEngineRaisersCallers.cpp">
+      <Filter>Source Files\Symbols\Symbol_Engines</Filter>
+    </ClCompile>
+    <ClCompile Include="CSymbolEngineRandom.cpp">
+      <Filter>Source Files\Symbols\Symbol_Engines</Filter>
+    </ClCompile>
+    <ClCompile Include="CSymbolEngineReplayFrameController.cpp">
+      <Filter>Source Files\Symbols\Symbol_Engines</Filter>
+    </ClCompile>
+    <ClCompile Include="CSymbolEngineTime.cpp">
+      <Filter>Source Files\Symbols\Symbol_Engines</Filter>
+    </ClCompile>
+    <ClCompile Include="CSymbolEngineUserchair.cpp">
+      <Filter>Source Files\Symbols\Symbol_Engines</Filter>
+    </ClCompile>
+    <ClCompile Include="CVirtualSymbolEngine.cpp">
+      <Filter>Source Files\Symbols\Symbol_Engines</Filter>
+    </ClCompile>
+    <ClCompile Include="CConfigurationCheck.cpp">
+      <Filter>Source Files\Usability</Filter>
+    </ClCompile>
+    <ClCompile Include="CProblemSolver.cpp">
+      <Filter>Source Files\Usability</Filter>
+    </ClCompile>
+    <ClCompile Include="CVersionInfo.cpp">
+      <Filter>Source Files\Usability</Filter>
+    </ClCompile>
+    <ClCompile Include="BringKeyboard.cpp">
+      <Filter>Source Files\AutoPlayer</Filter>
+    </ClCompile>
+    <ClCompile Include="CAutoplayer.cpp">
+      <Filter>Source Files\AutoPlayer</Filter>
+    </ClCompile>
+    <ClCompile Include="CAutoplayerFunctions.cpp">
+      <Filter>Source Files\AutoPlayer</Filter>
+    </ClCompile>
+    <ClCompile Include="CCasinoInterface.cpp">
+      <Filter>Source Files\AutoPlayer</Filter>
+    </ClCompile>
+    <ClCompile Include="CRebuyManagement.cpp">
+      <Filter>Source Files\AutoPlayer</Filter>
+    </ClCompile>
+    <ClCompile Include="CStableFramesCounter.cpp">
+      <Filter>Source Files\AutoPlayer</Filter>
+    </ClCompile>
+    <ClCompile Include="PokerChat.cpp">
+      <Filter>Source Files\AutoPlayer</Filter>
+    </ClCompile>
+    <ClCompile Include="CAutoConnector.cpp">
+      <Filter>Source Files\AutoConnector</Filter>
+    </ClCompile>
+    <ClCompile Include="CAutoConnectorThread.cpp">
+      <Filter>Source Files\AutoConnector</Filter>
+    </ClCompile>
+    <ClCompile Include="CTableMapLoader.cpp">
+      <Filter>Source Files\AutoConnector</Filter>
+    </ClCompile>
+    <ClCompile Include="CTablePositioner.cpp">
+      <Filter>Source Files\AutoConnector</Filter>
+    </ClCompile>
+    <ClCompile Include="CDllExtension.cpp">
+      <Filter>Source Files\Programming the Bot</Filter>
+    </ClCompile>
+    <ClCompile Include="CFormula.cpp">
+      <Filter>Source Files\Programming the Bot</Filter>
+    </ClCompile>
+    <ClCompile Include="CPerl.cpp">
+      <Filter>Source Files\Programming the Bot</Filter>
+    </ClCompile>
+    <ClCompile Include="CPokerTrackerThread.cpp">
+      <Filter>Source Files\PokerTracker</Filter>
+    </ClCompile>
+    <ClCompile Include="CIteratorThread.cpp">
+      <Filter>Source Files\PrWin</Filter>
+    </ClCompile>
+    <ClCompile Include="CIteratorVars.cpp">
+      <Filter>Source Files\PrWin</Filter>
+    </ClCompile>
+    <ClCompile Include="PrWinHandranges.cpp">
+      <Filter>Source Files\PrWin</Filter>
+    </ClCompile>
+    <ClCompile Include="CReplayFrame.cpp">
+      <Filter>Source Files\ReplayFrames</Filter>
+    </ClCompile>
+    <ClCompile Include="CReplayFramesCounter.cpp">
+      <Filter>Source Files\ReplayFrames</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceModify.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Debug_Database.cpp_">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="Validator_Rules\consistency_checks_action_symbols_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\consistency_checks_autoplayer_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\consistency_checks_bets_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\consistency_checks_buttons_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\consistency_checks_cards_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\consistency_checks_chip_amounts_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\consistency_checks_general_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\consistency_checks_handreset_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\consistency_checks_history_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\consistency_checks_limits_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\consistency_checks_memory_symbols_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\consistency_checks_number_of_bets_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\consistency_checks_players_friends_opponents_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\consistency_checks_table_stats_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\consistency_checks_time_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\range_checks_action_symbols_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\range_checks_autoplayer_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\range_checks_card_symbols_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\range_checks_chairs_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\range_checks_chip_amounts_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\range_checks_common_cards_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\range_checks_flags_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\range_checks_flushes_straights_sets_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\range_checks_formula_file_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\range_checks_general_symbols_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\range_checks_handrank_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\range_checks_icm_symbols_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\range_checks_known_cards_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\range_checks_limits_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\range_checks_list_tests_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\range_checks_nhands_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\range_checks_NOT_TO_DO_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\range_checks_number_of_bets_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\range_checks_players_friends_opponents_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\range_checks_poker_values_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\range_checks_probabilities_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\range_checks_rank_bits_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\range_checks_rank_hi_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\range_checks_rank_lo_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\range_checks_rounds_positions_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\range_checks_table_stats_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\range_checks_tablemap_symbols_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\range_checks_time_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\range_checks_versus_inline.cpp_">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </None>
+    <None Include="Validator_Rules\Tools\rules2cpp.pl">
+      <Filter>Source Files\Validator-Rules\Tools</Filter>
+    </None>
+    <None Include="Validator_Rules\Tools\verify_symbolnames.pl">
+      <Filter>Source Files\Validator-Rules\Tools</Filter>
+    </None>
+    <None Include="res\OpenHoldem.rc2">
+      <Filter>Source Files\Resource Files</Filter>
+    </None>
+    <None Include="..\##_OpenHoldem_Release_Directory_##\License_GPLv3.htm">
+      <Filter>Source Files\Documents</Filter>
+    </None>
+    <None Include="..\##_OpenHoldem_Release_Directory_##\OpenHoldem_Preferences__feel_free_to_rename_this_file_to_whatever_you_like.INI">
+      <Filter>Source Files\Documents</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Validator_Rules\rule_template.txt">
+      <Filter>Source Files\Validator-Rules</Filter>
+    </Text>
+    <Text Include="HeaderCopyrightDocumentation.txt">
+      <Filter>Source Files\Documents</Filter>
+    </Text>
+    <Text Include="..\##_OpenHoldem_Release_Directory_##\sources of code.txt">
+      <Filter>Source Files\Documents</Filter>
+    </Text>
+    <Text Include="..\##_OpenHoldem_Release_Directory_##\ManualMode Release Notes.txt">
+      <Filter>Source Files\Documents\Release Notes</Filter>
+    </Text>
+    <Text Include="..\##_OpenHoldem_Release_Directory_##\OHReplay Release Notes.txt">
+      <Filter>Source Files\Documents\Release Notes</Filter>
+    </Text>
+    <Text Include="..\##_OpenHoldem_Release_Directory_##\OpenHoldem Release Notes.txt">
+      <Filter>Source Files\Documents\Release Notes</Filter>
+    </Text>
+    <Text Include="..\##_OpenPPL_Release_Directory_##\OpenPPL Release Notes.txt">
+      <Filter>Source Files\Documents\Release Notes</Filter>
+    </Text>
+    <Text Include="..\##_OpenHoldem_Release_Directory_##\OpenScrape Release Notes.txt">
+      <Filter>Source Files\Documents\Release Notes</Filter>
+    </Text>
+    <Text Include="..\Checklist_Release.txt">
+      <Filter>Source Files\Documents\Checklist for Releases</Filter>
+    </Text>
+    <Text Include="..\Checklist_Release_OpenPPL.txt">
+      <Filter>Source Files\Documents\Checklist for Releases</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\bitmap1.bmp">
+      <Filter>Source Files\Resource Files</Filter>
+    </Image>
+    <Image Include="res\bitmap_flags.bmp">
+      <Filter>Source Files\Resource Files</Filter>
+    </Image>
+    <Image Include="res\idc_marg.ico">
+      <Filter>Source Files\Resource Files</Filter>
+    </Image>
+    <Image Include="res\OpenHoldem.ico">
+      <Filter>Source Files\Resource Files</Filter>
+    </Image>
+    <Image Include="res\Toolbar.bmp">
+      <Filter>Source Files\Resource Files</Filter>
+    </Image>
+    <Image Include="res\toolbar_formula_list.bmp">
+      <Filter>Source Files\Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="OpenHoldem.rc">
+      <Filter>Source Files\Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CEvalInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CFilenames.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CFileSystemMonitor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CFlagsToolbar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CGrammar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CHandHistory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CHandresetDetector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CHeartbeatThread.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CLazyScraper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CLevDistance.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="COcclusionCheck.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="COpenHoldemHopperCommunication.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="COpenHoldemStatusbar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="COpenPPLGrammar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CPreferences.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="crc32hash.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CScraper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CScraperAccess.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CStringMatch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CTableLimits.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CValidator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="debug.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FloatingPoint_Comparisions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MagicNumbers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MD5_Checksum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Median.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MyCToolBar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NumericalFunctions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OH_MessageBox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OpenHoldem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OpenHoldemDoc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ppmessage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ScraperOverride.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Singletons.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StringFunctions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SwagAdjustment.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\winmgr\SizerBar.h">
+      <Filter>Header Files\winmgr</Filter>
+    </ClInclude>
+    <ClInclude Include="..\winmgr\WinMgr.h">
+      <Filter>Header Files\winmgr</Filter>
+    </ClInclude>
+    <ClInclude Include="..\hscroll-list-box\HScrollListBox.h">
+      <Filter>Header Files\hscroll-list-box</Filter>
+    </ClInclude>
+    <ClInclude Include="..\pokereval\include\combinations.h">
+      <Filter>Header Files\pokereval</Filter>
+    </ClInclude>
+    <ClInclude Include="..\pokereval\include\deck.h">
+      <Filter>Header Files\pokereval</Filter>
+    </ClInclude>
+    <ClInclude Include="..\pokereval\include\deck_std.h">
+      <Filter>Header Files\pokereval</Filter>
+    </ClInclude>
+    <ClInclude Include="..\pokereval\include\deck_undef.h">
+      <Filter>Header Files\pokereval</Filter>
+    </ClInclude>
+    <ClInclude Include="..\pokereval\include\enumdefs.h">
+      <Filter>Header Files\pokereval</Filter>
+    </ClInclude>
+    <ClInclude Include="..\pokereval\include\enumerate.h">
+      <Filter>Header Files\pokereval</Filter>
+    </ClInclude>
+    <ClInclude Include="..\pokereval\include\enumord.h">
+      <Filter>Header Files\pokereval</Filter>
+    </ClInclude>
+    <ClInclude Include="..\pokereval\include\inlines\eval.h">
+      <Filter>Header Files\pokereval</Filter>
+    </ClInclude>
+    <ClInclude Include="..\pokereval\include\inlines\eval_low.h">
+      <Filter>Header Files\pokereval</Filter>
+    </ClInclude>
+    <ClInclude Include="..\pokereval\include\inlines\eval_type.h">
+      <Filter>Header Files\pokereval</Filter>
+    </ClInclude>
+    <ClInclude Include="..\pokereval\include\inlines\evx5.h">
+      <Filter>Header Files\pokereval</Filter>
+    </ClInclude>
+    <ClInclude Include="..\pokereval\include\inlines\evx7.h">
+      <Filter>Header Files\pokereval</Filter>
+    </ClInclude>
+    <ClInclude Include="..\pokereval\include\inlines\evx_action.h">
+      <Filter>Header Files\pokereval</Filter>
+    </ClInclude>
+    <ClInclude Include="..\pokereval\include\evx_defs.h">
+      <Filter>Header Files\pokereval</Filter>
+    </ClInclude>
+    <ClInclude Include="..\pokereval\include\inlines\evx_inlines.h">
+      <Filter>Header Files\pokereval</Filter>
+    </ClInclude>
+    <ClInclude Include="..\pokereval\include\game_std.h">
+      <Filter>Header Files\pokereval</Filter>
+    </ClInclude>
+    <ClInclude Include="..\pokereval\include\handval.h">
+      <Filter>Header Files\pokereval</Filter>
+    </ClInclude>
+    <ClInclude Include="..\pokereval\include\handval_low.h">
+      <Filter>Header Files\pokereval</Filter>
+    </ClInclude>
+    <ClInclude Include="..\pokereval\include\poker_config.h">
+      <Filter>Header Files\pokereval</Filter>
+    </ClInclude>
+    <ClInclude Include="..\pokereval\include\poker_defs.h">
+      <Filter>Header Files\pokereval</Filter>
+    </ClInclude>
+    <ClInclude Include="..\pokereval\include\poker_wrapper.h">
+      <Filter>Header Files\pokereval</Filter>
+    </ClInclude>
+    <ClInclude Include="..\pokereval\include\pokereval_export.h">
+      <Filter>Header Files\pokereval</Filter>
+    </ClInclude>
+    <ClInclude Include="..\pokereval\include\rules_std.h">
+      <Filter>Header Files\pokereval</Filter>
+    </ClInclude>
+    <ClInclude Include="..\pokereval\include\rules_undef.h">
+      <Filter>Header Files\pokereval</Filter>
+    </ClInclude>
+    <ClInclude Include="..\postgres\libpq-fe.h">
+      <Filter>Header Files\postgres</Filter>
+    </ClInclude>
+    <ClInclude Include="..\postgres\postgres_ext.h">
+      <Filter>Header Files\postgres</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CTransform\pdiff\CompareArgs.h">
+      <Filter>Header Files\CTransform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CTransform\CTransform.h">
+      <Filter>Header Files\CTransform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CTransform\hash\lookup3.h">
+      <Filter>Header Files\CTransform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CTransform\pdiff\LPyramid.h">
+      <Filter>Header Files\CTransform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CTransform\pdiff\Metric.h">
+      <Filter>Header Files\CTransform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CTransform\pdiff\RGBAImage.h">
+      <Filter>Header Files\CTransform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CTransform\hash\stdint.h">
+      <Filter>Header Files\CTransform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\StructsDefines\structs_defines.h">
+      <Filter>Header Files\StructsDefines</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CTablemap\CTablemap.h">
+      <Filter>Header Files\CTablemap</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CTablemap\CTableMapAccess.h">
+      <Filter>Header Files\CTablemap</Filter>
+    </ClInclude>
+    <ClInclude Include="CTablemapVersionChecker.h">
+      <Filter>Header Files\CTablemap</Filter>
+    </ClInclude>
+    <ClInclude Include="CBetroundCalculator.h">
+      <Filter>Header Files\Symbols</Filter>
+    </ClInclude>
+    <ClInclude Include="CEngineContainer.h">
+      <Filter>Header Files\Symbols</Filter>
+    </ClInclude>
+    <ClInclude Include="CGameState.h">
+      <Filter>Header Files\Symbols</Filter>
+    </ClInclude>
+    <ClInclude Include="Chair$Symbols.h">
+      <Filter>Header Files\Symbols</Filter>
+    </ClInclude>
+    <ClInclude Include="CICMCalculator.h">
+      <Filter>Header Files\Symbols</Filter>
+    </ClInclude>
+    <ClInclude Include="CLogSymbols.h">
+      <Filter>Header Files\Symbols</Filter>
+    </ClInclude>
+    <ClInclude Include="CMemory.h">
+      <Filter>Header Files\Symbols</Filter>
+    </ClInclude>
+    <ClInclude Include="CPokerAction.h">
+      <Filter>Header Files\Symbols</Filter>
+    </ClInclude>
+    <ClInclude Include="CSymbols.h">
+      <Filter>Header Files\Symbols</Filter>
+    </ClInclude>
+    <ClInclude Include="CVersus.h">
+      <Filter>Header Files\Symbols</Filter>
+    </ClInclude>
+    <ClInclude Include="CVirtualSymbolEngine.h">
+      <Filter>Header Files\Symbols</Filter>
+    </ClInclude>
+    <ClInclude Include="UnknownSymbols.h">
+      <Filter>Header Files\Symbols</Filter>
+    </ClInclude>
+    <ClInclude Include="CSymbolEngineActiveDealtPlaying.h">
+      <Filter>Header Files\Symbols\Symbol_Engines</Filter>
+    </ClInclude>
+    <ClInclude Include="CSymbolEngineAutoplayer.h">
+      <Filter>Header Files\Symbols\Symbol_Engines</Filter>
+    </ClInclude>
+    <ClInclude Include="CSymbolEngineBlinds.h">
+      <Filter>Header Files\Symbols\Symbol_Engines</Filter>
+    </ClInclude>
+    <ClInclude Include="CSymbolEngineCards.h">
+      <Filter>Header Files\Symbols\Symbol_Engines</Filter>
+    </ClInclude>
+    <ClInclude Include="CSymbolEngineChipAmounts.h">
+      <Filter>Header Files\Symbols\Symbol_Engines</Filter>
+    </ClInclude>
+    <ClInclude Include="CSymbolEngineDealerchair.h">
+      <Filter>Header Files\Symbols\Symbol_Engines</Filter>
+    </ClInclude>
+    <ClInclude Include="CSymbolEngineHandrank.h">
+      <Filter>Header Files\Symbols\Symbol_Engines</Filter>
+    </ClInclude>
+    <ClInclude Include="CSymbolEngineHistory.h">
+      <Filter>Header Files\Symbols\Symbol_Engines</Filter>
+    </ClInclude>
+    <ClInclude Include="CSymbolEngineIniFunctions.h">
+      <Filter>Header Files\Symbols\Symbol_Engines</Filter>
+    </ClInclude>
+    <ClInclude Include="CSymbolEngineIsOmaha.h">
+      <Filter>Header Files\Symbols\Symbol_Engines</Filter>
+    </ClInclude>
+    <ClInclude Include="CSymbolEngineIsTournament.h">
+      <Filter>Header Files\Symbols\Symbol_Engines</Filter>
+    </ClInclude>
+    <ClInclude Include="CSymbolEngineLists.h">
+      <Filter>Header Files\Symbols\Symbol_Engines</Filter>
+    </ClInclude>
+    <ClInclude Include="CSymbolEnginePokerTracker.h">
+      <Filter>Header Files\Symbols\Symbol_Engines</Filter>
+    </ClInclude>
+    <ClInclude Include="CSymbolEnginePokerval.h">
+      <Filter>Header Files\Symbols\Symbol_Engines</Filter>
+    </ClInclude>
+    <ClInclude Include="CSymbolEnginePositions.h">
+      <Filter>Header Files\Symbols\Symbol_Engines</Filter>
+    </ClInclude>
+    <ClInclude Include="CSymbolEnginePrwin.h">
+      <Filter>Header Files\Symbols\Symbol_Engines</Filter>
+    </ClInclude>
+    <ClInclude Include="CSymbolEngineRaisersCallers.h">
+      <Filter>Header Files\Symbols\Symbol_Engines</Filter>
+    </ClInclude>
+    <ClInclude Include="CSymbolEngineRandom.h">
+      <Filter>Header Files\Symbols\Symbol_Engines</Filter>
+    </ClInclude>
+    <ClInclude Include="CSymbolEngineReplayFrameController.h">
+      <Filter>Header Files\Symbols\Symbol_Engines</Filter>
+    </ClInclude>
+    <ClInclude Include="CSymbolEngineTime.h">
+      <Filter>Header Files\Symbols\Symbol_Engines</Filter>
+    </ClInclude>
+    <ClInclude Include="CSymbolengineUserchair.h">
+      <Filter>Header Files\Symbols\Symbol_Engines</Filter>
+    </ClInclude>
+    <ClInclude Include="DialogFormulaScintilla.h">
+      <Filter>Header Files\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="DialogHandList.h">
+      <Filter>Header Files\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="DialogNew.h">
+      <Filter>Header Files\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="DialogRename.h">
+      <Filter>Header Files\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="DialogScraperOutput.h">
+      <Filter>Header Files\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="OpenHoldemView.h">
+      <Filter>Header Files\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="ScintillaWnd.h">
+      <Filter>Header Files\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="UPDialog.h">
+      <Filter>Header Files\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="DialogSAPrefs10.h">
+      <Filter>Header Files\GUI\prefs_dlg</Filter>
+    </ClInclude>
+    <ClInclude Include="DialogSAPrefs11.h">
+      <Filter>Header Files\GUI\prefs_dlg</Filter>
+    </ClInclude>
+    <ClInclude Include="DialogSAPrefs12.h">
+      <Filter>Header Files\GUI\prefs_dlg</Filter>
+    </ClInclude>
+    <ClInclude Include="DialogSAPrefs13.h">
+      <Filter>Header Files\GUI\prefs_dlg</Filter>
+    </ClInclude>
+    <ClInclude Include="DialogSAPrefs14.h">
+      <Filter>Header Files\GUI\prefs_dlg</Filter>
+    </ClInclude>
+    <ClInclude Include="DialogSAPrefs15.h">
+      <Filter>Header Files\GUI\prefs_dlg</Filter>
+    </ClInclude>
+    <ClInclude Include="DialogSAPrefs16.h">
+      <Filter>Header Files\GUI\prefs_dlg</Filter>
+    </ClInclude>
+    <ClInclude Include="DialogSAPrefs17.h">
+      <Filter>Header Files\GUI\prefs_dlg</Filter>
+    </ClInclude>
+    <ClInclude Include="DialogSAPrefs18.h">
+      <Filter>Header Files\GUI\prefs_dlg</Filter>
+    </ClInclude>
+    <ClInclude Include="DialogSAPrefs19.h">
+      <Filter>Header Files\GUI\prefs_dlg</Filter>
+    </ClInclude>
+    <ClInclude Include="DialogSAPrefs2.h">
+      <Filter>Header Files\GUI\prefs_dlg</Filter>
+    </ClInclude>
+    <ClInclude Include="DialogSAPrefs20.h">
+      <Filter>Header Files\GUI\prefs_dlg</Filter>
+    </ClInclude>
+    <ClInclude Include="DialogSAPrefs21.h">
+      <Filter>Header Files\GUI\prefs_dlg</Filter>
+    </ClInclude>
+    <ClInclude Include="DialogSAPrefs3.h">
+      <Filter>Header Files\GUI\prefs_dlg</Filter>
+    </ClInclude>
+    <ClInclude Include="DialogSAPrefs4.h">
+      <Filter>Header Files\GUI\prefs_dlg</Filter>
+    </ClInclude>
+    <ClInclude Include="DialogSAPrefs6.h">
+      <Filter>Header Files\GUI\prefs_dlg</Filter>
+    </ClInclude>
+    <ClInclude Include="DialogSAPrefs7.h">
+      <Filter>Header Files\GUI\prefs_dlg</Filter>
+    </ClInclude>
+    <ClInclude Include="DialogSAPrefs8.h">
+      <Filter>Header Files\GUI\prefs_dlg</Filter>
+    </ClInclude>
+    <ClInclude Include="DialogSAPrefs9.h">
+      <Filter>Header Files\GUI\prefs_dlg</Filter>
+    </ClInclude>
+    <ClInclude Include="SAPrefsDialog.h">
+      <Filter>Header Files\GUI\prefs_dlg</Filter>
+    </ClInclude>
+    <ClInclude Include="SAPrefsStatic.h">
+      <Filter>Header Files\GUI\prefs_dlg</Filter>
+    </ClInclude>
+    <ClInclude Include="SAPrefsSubDlg.h">
+      <Filter>Header Files\GUI\prefs_dlg</Filter>
+    </ClInclude>
+    <ClInclude Include="CSessionCounter.h">
+      <Filter>Header Files\Synchronization</Filter>
+    </ClInclude>
+    <ClInclude Include="CSharedMem.h">
+      <Filter>Header Files\Synchronization</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CCritSec\CCritSec.h">
+      <Filter>Header Files\Synchronization\CCritSec</Filter>
+    </ClInclude>
+    <ClInclude Include="CDllExtension.h">
+      <Filter>Header Files\Programming the Bot</Filter>
+    </ClInclude>
+    <ClInclude Include="CFormula.h">
+      <Filter>Header Files\Programming the Bot</Filter>
+    </ClInclude>
+    <ClInclude Include="CPerl.hpp">
+      <Filter>Header Files\Programming the Bot</Filter>
+    </ClInclude>
+    <ClInclude Include="PerlEz.h">
+      <Filter>Header Files\Programming the Bot</Filter>
+    </ClInclude>
+    <ClInclude Include="CPokerTrackerThread.h">
+      <Filter>Header Files\PokerTracker</Filter>
+    </ClInclude>
+    <ClInclude Include="BringKeyboard.h">
+      <Filter>Header Files\AutoPlayer</Filter>
+    </ClInclude>
+    <ClInclude Include="CAutoplayer.h">
+      <Filter>Header Files\AutoPlayer</Filter>
+    </ClInclude>
+    <ClInclude Include="CAutoplayerFunctions.h">
+      <Filter>Header Files\AutoPlayer</Filter>
+    </ClInclude>
+    <ClInclude Include="CCasinoInterface.h">
+      <Filter>Header Files\AutoPlayer</Filter>
+    </ClInclude>
+    <ClInclude Include="CRebuyManagement.h">
+      <Filter>Header Files\AutoPlayer</Filter>
+    </ClInclude>
+    <ClInclude Include="CStableFramesCounter.h">
+      <Filter>Header Files\AutoPlayer</Filter>
+    </ClInclude>
+    <ClInclude Include="PokerChat.hpp">
+      <Filter>Header Files\AutoPlayer</Filter>
+    </ClInclude>
+    <ClInclude Include="CAutoConnector.h">
+      <Filter>Header Files\AutoConnector</Filter>
+    </ClInclude>
+    <ClInclude Include="CAutoConnectorThread.h">
+      <Filter>Header Files\AutoConnector</Filter>
+    </ClInclude>
+    <ClInclude Include="CPokerTrackerQueryCollection.h">
+      <Filter>Header Files\AutoConnector</Filter>
+    </ClInclude>
+    <ClInclude Include="CTableMapLoader.h">
+      <Filter>Header Files\AutoConnector</Filter>
+    </ClInclude>
+    <ClInclude Include="CTablePositioner.h">
+      <Filter>Header Files\AutoConnector</Filter>
+    </ClInclude>
+    <ClInclude Include="CConfigurationCheck.h">
+      <Filter>Header Files\Usability</Filter>
+    </ClInclude>
+    <ClInclude Include="CProblemSolver.h">
+      <Filter>Header Files\Usability</Filter>
+    </ClInclude>
+    <ClInclude Include="CVersionInfo.h">
+      <Filter>Header Files\Usability</Filter>
+    </ClInclude>
+    <ClInclude Include="CIteratorThread.h">
+      <Filter>Header Files\PrWin</Filter>
+    </ClInclude>
+    <ClInclude Include="CIteratorVars.h">
+      <Filter>Header Files\PrWin</Filter>
+    </ClInclude>
+    <ClInclude Include="PrWinHandranges.h">
+      <Filter>Header Files\PrWin</Filter>
+    </ClInclude>
+    <ClInclude Include="CReplayFrame.h">
+      <Filter>Header Files\ReplayFrames</Filter>
+    </ClInclude>
+    <ClInclude Include="CReplayFramesCounter.h">
+      <Filter>Header Files\ReplayFrames</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

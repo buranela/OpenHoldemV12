@@ -68,7 +68,7 @@
 #endif
 
 
-static inline HandVal 
+static __inline HandVal 
 StdDeck_StdRules_EVAL_N( StdDeck_CardMask cards, int n_cards )
 {
   HandVal retval;
